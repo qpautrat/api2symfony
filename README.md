@@ -44,6 +44,7 @@ foreach($controllers as $controller) {
 ```sh
 composer install --dev
 php vendor/bin/phpunit
+./vendor/bin/behat
 ```
 
 ## Contributors
